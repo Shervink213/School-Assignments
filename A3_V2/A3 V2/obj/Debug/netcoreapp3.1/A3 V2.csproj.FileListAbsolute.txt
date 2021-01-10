@@ -1,0 +1,39 @@
+C:\Users\Connor\source\repos\A3 V2\A3 V2\obj\Debug\netcoreapp3.1\A3 V2.csprojAssemblyReference.cache
+C:\Users\Connor\source\repos\A3 V2\A3 V2\obj\Debug\netcoreapp3.1\A3 V2.AssemblyInfoInputs.cache
+C:\Users\Connor\source\repos\A3 V2\A3 V2\obj\Debug\netcoreapp3.1\A3 V2.AssemblyInfo.cs
+C:\Users\Connor\source\repos\A3 V2\A3 V2\obj\Debug\netcoreapp3.1\A3 V2.csproj.CoreCompileInputs.cache
+C:\Users\Connor\source\repos\A3 V2\A3 V2\bin\Debug\netcoreapp3.1\A3 V2.exe
+C:\Users\Connor\source\repos\A3 V2\A3 V2\bin\Debug\netcoreapp3.1\A3 V2.deps.json
+C:\Users\Connor\source\repos\A3 V2\A3 V2\bin\Debug\netcoreapp3.1\A3 V2.runtimeconfig.json
+C:\Users\Connor\source\repos\A3 V2\A3 V2\bin\Debug\netcoreapp3.1\A3 V2.runtimeconfig.dev.json
+C:\Users\Connor\source\repos\A3 V2\A3 V2\bin\Debug\netcoreapp3.1\A3 V2.dll
+C:\Users\Connor\source\repos\A3 V2\A3 V2\bin\Debug\netcoreapp3.1\A3 V2.pdb
+C:\Users\Connor\source\repos\A3 V2\A3 V2\obj\Debug\netcoreapp3.1\A3 V2.dll
+C:\Users\Connor\source\repos\A3 V2\A3 V2\obj\Debug\netcoreapp3.1\A3 V2.pdb
+C:\Users\Connor\source\repos\A3 V2\A3 V2\obj\Debug\netcoreapp3.1\A3 V2.genruntimeconfig.cache
+C:\Users\Sherv\source\repos\A3_V2\A3 V2\A3 V2\bin\Debug\netcoreapp3.1\A3 V2.exe
+C:\Users\Sherv\source\repos\A3_V2\A3 V2\A3 V2\bin\Debug\netcoreapp3.1\A3 V2.deps.json
+C:\Users\Sherv\source\repos\A3_V2\A3 V2\A3 V2\bin\Debug\netcoreapp3.1\A3 V2.runtimeconfig.json
+C:\Users\Sherv\source\repos\A3_V2\A3 V2\A3 V2\bin\Debug\netcoreapp3.1\A3 V2.runtimeconfig.dev.json
+C:\Users\Sherv\source\repos\A3_V2\A3 V2\A3 V2\bin\Debug\netcoreapp3.1\A3 V2.dll
+C:\Users\Sherv\source\repos\A3_V2\A3 V2\A3 V2\bin\Debug\netcoreapp3.1\A3 V2.pdb
+C:\Users\Sherv\source\repos\A3_V2\A3 V2\A3 V2\obj\Debug\netcoreapp3.1\A3 V2.csprojAssemblyReference.cache
+C:\Users\Sherv\source\repos\A3_V2\A3 V2\A3 V2\obj\Debug\netcoreapp3.1\A3 V2.AssemblyInfoInputs.cache
+C:\Users\Sherv\source\repos\A3_V2\A3 V2\A3 V2\obj\Debug\netcoreapp3.1\A3 V2.AssemblyInfo.cs
+C:\Users\Sherv\source\repos\A3_V2\A3 V2\A3 V2\obj\Debug\netcoreapp3.1\A3 V2.csproj.CoreCompileInputs.cache
+C:\Users\Sherv\source\repos\A3_V2\A3 V2\A3 V2\obj\Debug\netcoreapp3.1\A3 V2.dll
+C:\Users\Sherv\source\repos\A3_V2\A3 V2\A3 V2\obj\Debug\netcoreapp3.1\A3 V2.pdb
+C:\Users\Sherv\source\repos\A3_V2\A3 V2\A3 V2\obj\Debug\netcoreapp3.1\A3 V2.genruntimeconfig.cache
+C:\Users\Sherv\source\repos\A3_V2\A3 V2\bin\Debug\netcoreapp3.1\A3 V2.exe
+C:\Users\Sherv\source\repos\A3_V2\A3 V2\bin\Debug\netcoreapp3.1\A3 V2.deps.json
+C:\Users\Sherv\source\repos\A3_V2\A3 V2\bin\Debug\netcoreapp3.1\A3 V2.runtimeconfig.json
+C:\Users\Sherv\source\repos\A3_V2\A3 V2\bin\Debug\netcoreapp3.1\A3 V2.runtimeconfig.dev.json
+C:\Users\Sherv\source\repos\A3_V2\A3 V2\bin\Debug\netcoreapp3.1\A3 V2.dll
+C:\Users\Sherv\source\repos\A3_V2\A3 V2\bin\Debug\netcoreapp3.1\A3 V2.pdb
+C:\Users\Sherv\source\repos\A3_V2\A3 V2\obj\Debug\netcoreapp3.1\A3 V2.csprojAssemblyReference.cache
+C:\Users\Sherv\source\repos\A3_V2\A3 V2\obj\Debug\netcoreapp3.1\A3 V2.AssemblyInfoInputs.cache
+C:\Users\Sherv\source\repos\A3_V2\A3 V2\obj\Debug\netcoreapp3.1\A3 V2.AssemblyInfo.cs
+C:\Users\Sherv\source\repos\A3_V2\A3 V2\obj\Debug\netcoreapp3.1\A3 V2.csproj.CoreCompileInputs.cache
+C:\Users\Sherv\source\repos\A3_V2\A3 V2\obj\Debug\netcoreapp3.1\A3 V2.dll
+C:\Users\Sherv\source\repos\A3_V2\A3 V2\obj\Debug\netcoreapp3.1\A3 V2.pdb
+C:\Users\Sherv\source\repos\A3_V2\A3 V2\obj\Debug\netcoreapp3.1\A3 V2.genruntimeconfig.cache

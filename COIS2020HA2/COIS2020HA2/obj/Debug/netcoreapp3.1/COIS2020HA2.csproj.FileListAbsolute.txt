@@ -1,0 +1,13 @@
+C:\Users\Sherv\source\repos\COIS2020HA2\COIS2020HA2\obj\Debug\netcoreapp3.1\COIS2020HA2.csprojAssemblyReference.cache
+C:\Users\Sherv\source\repos\COIS2020HA2\COIS2020HA2\obj\Debug\netcoreapp3.1\COIS2020HA2.AssemblyInfoInputs.cache
+C:\Users\Sherv\source\repos\COIS2020HA2\COIS2020HA2\obj\Debug\netcoreapp3.1\COIS2020HA2.AssemblyInfo.cs
+C:\Users\Sherv\source\repos\COIS2020HA2\COIS2020HA2\obj\Debug\netcoreapp3.1\COIS2020HA2.csproj.CoreCompileInputs.cache
+C:\Users\Sherv\source\repos\COIS2020HA2\COIS2020HA2\bin\Debug\netcoreapp3.1\COIS2020HA2.exe
+C:\Users\Sherv\source\repos\COIS2020HA2\COIS2020HA2\bin\Debug\netcoreapp3.1\COIS2020HA2.deps.json
+C:\Users\Sherv\source\repos\COIS2020HA2\COIS2020HA2\bin\Debug\netcoreapp3.1\COIS2020HA2.runtimeconfig.json
+C:\Users\Sherv\source\repos\COIS2020HA2\COIS2020HA2\bin\Debug\netcoreapp3.1\COIS2020HA2.runtimeconfig.dev.json
+C:\Users\Sherv\source\repos\COIS2020HA2\COIS2020HA2\bin\Debug\netcoreapp3.1\COIS2020HA2.dll
+C:\Users\Sherv\source\repos\COIS2020HA2\COIS2020HA2\bin\Debug\netcoreapp3.1\COIS2020HA2.pdb
+C:\Users\Sherv\source\repos\COIS2020HA2\COIS2020HA2\obj\Debug\netcoreapp3.1\COIS2020HA2.dll
+C:\Users\Sherv\source\repos\COIS2020HA2\COIS2020HA2\obj\Debug\netcoreapp3.1\COIS2020HA2.pdb
+C:\Users\Sherv\source\repos\COIS2020HA2\COIS2020HA2\obj\Debug\netcoreapp3.1\COIS2020HA2.genruntimeconfig.cache

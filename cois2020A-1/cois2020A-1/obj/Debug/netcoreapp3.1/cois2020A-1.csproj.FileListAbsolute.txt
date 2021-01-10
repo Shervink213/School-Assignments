@@ -1,0 +1,13 @@
+C:\Users\Sherv\source\repos\cois2020A-1\cois2020A-1\obj\Debug\netcoreapp3.1\cois2020A-1.csprojAssemblyReference.cache
+C:\Users\Sherv\source\repos\cois2020A-1\cois2020A-1\obj\Debug\netcoreapp3.1\cois2020A-1.AssemblyInfoInputs.cache
+C:\Users\Sherv\source\repos\cois2020A-1\cois2020A-1\obj\Debug\netcoreapp3.1\cois2020A-1.AssemblyInfo.cs
+C:\Users\Sherv\source\repos\cois2020A-1\cois2020A-1\obj\Debug\netcoreapp3.1\cois2020A-1.csproj.CoreCompileInputs.cache
+C:\Users\Sherv\source\repos\cois2020A-1\cois2020A-1\bin\Debug\netcoreapp3.1\cois2020A-1.deps.json
+C:\Users\Sherv\source\repos\cois2020A-1\cois2020A-1\bin\Debug\netcoreapp3.1\cois2020A-1.dll
+C:\Users\Sherv\source\repos\cois2020A-1\cois2020A-1\bin\Debug\netcoreapp3.1\cois2020A-1.pdb
+C:\Users\Sherv\source\repos\cois2020A-1\cois2020A-1\obj\Debug\netcoreapp3.1\cois2020A-1.dll
+C:\Users\Sherv\source\repos\cois2020A-1\cois2020A-1\obj\Debug\netcoreapp3.1\cois2020A-1.pdb
+C:\Users\Sherv\source\repos\cois2020A-1\cois2020A-1\bin\Debug\netcoreapp3.1\cois2020A-1.exe
+C:\Users\Sherv\source\repos\cois2020A-1\cois2020A-1\bin\Debug\netcoreapp3.1\cois2020A-1.runtimeconfig.json
+C:\Users\Sherv\source\repos\cois2020A-1\cois2020A-1\bin\Debug\netcoreapp3.1\cois2020A-1.runtimeconfig.dev.json
+C:\Users\Sherv\source\repos\cois2020A-1\cois2020A-1\obj\Debug\netcoreapp3.1\cois2020A-1.genruntimeconfig.cache
